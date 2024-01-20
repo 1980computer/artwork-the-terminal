@@ -1,6 +1,6 @@
-# Getting Started Update LEDs 
+# Update LED Guide
 
-Want to customize the LED animations on The Terminal artwork? Easy: Here is a basic guide for how to update, adjust, or play around.
+If you want to customize the LED animations on [The Terminal](https://etherscan.io/nft/0xAafACA1aEcae1A0c3E68AC7842c5739419fC4E68/7) artwork? Here is a basic guide on how to update, adjust, or play around.
 
 
 ### 1. Hardware: Arduino Uno
