@@ -9,7 +9,7 @@ This artwork captures the essence of a terminal interface, visualizing the vibra
 This digital asset is minted fully on-chain with SVG code and an infinite looping animation directly to the Ethereum blockchain. Ownership enables the token owner to claim the physical version.
 
 - Owner: flashrekt.eth
-- Contract Address: 0xAafACA1aEcae1A0c3E68AC7842c5739419fC4E68
+- Contract Address: [https://etherscan.io/nft/0xAafACA1aEcae1A0c3E68AC7842c5739419fC4E68/7](https://etherscan.io/nft/0xAafACA1aEcae1A0c3E68AC7842c5739419fC4E68/7)
 - Creator: 1980k.eth
 - Classification: On-Chain
 - Token Standard: ERC-721
