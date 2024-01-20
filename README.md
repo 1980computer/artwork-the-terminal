@@ -26,17 +26,22 @@ There is a perfection to the imperfect.
 - Code for NFT
 - Code for Arduino Uno custom LED animations
 
-## Artist
+## Artist Process
 
-Created by 1980k. A beautiful journey in exploration. Insight into the steps to create this artwork. 
-1. Custom coded generative pattern in p5js. Unlimited patterns can be generated. 
+Created by 1980k. A beautiful journey of exploration. Insight into the steps to create this artwork. 
+1. Custom-coded generative pattern in p5js. Unlimited patterns can be generated. 
 2. Converted the p5js to an SVG. Added SVG animation code.
 3. Minted fully onchain to the Ethereum Blockchain.
-4. Printed, painted, vinyled, and finished the artwork onto a wood panel.
-5. Custom made metal LED mounts, soldered, wired and mounted Arduino hardware.
-6. Custom coded led animation to simulate a green dot blinking when connected the uploading data.
+4. Printed, painted, vinyl, and finished the artwork onto a wood panel.
+5. Custom-made metal LED mounts, soldered, wired, and mounted Arduino hardware.
+6. Custom-coded LED animation to simulate a green dot blinking when connected to the uploading data.
 
-Since the pattern is code there is unlimited uses such as shoes and other products I've explored.
+Since the pattern is code, there are unlimited uses, such as shoes and other products I've explored.
 
 **View The Network artwork at [https://1980k.com/the-network](https://1980k.com/the-network)**
 
+### Digital Artwork
+![image](https://images.squarespace-cdn.com/content/v1/6323407806527435ec6898dc/0849c103-1ab7-4045-9115-7791006f60c7/TN-2.jpg)
+
+### Physical Artwork 
+![image](https://images.squarespace-cdn.com/content/v1/6323407806527435ec6898dc/5e8c1caf-7879-452c-8467-3ef0e8c1f5d3/TN-2.1.jpg)
