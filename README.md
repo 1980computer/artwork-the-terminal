@@ -38,7 +38,8 @@ Created by 1980k. A beautiful journey of exploration. Insight into the steps to 
 
 Since the pattern is code, there are unlimited uses, such as shoes and other products I've explored.
 
-**View The Network artwork at [https://1980k.com/the-network](https://1980k.com/the-network)**
+- The Terminal shoes → [https://1980k.com/shop/p/the-terminal-shoes](https://1980k.com/shop/p/the-terminal-shoes)
+- The Network collection → [https://1980k.com/the-network](https://1980k.com/the-network)
 
 ### Digital Artwork
 ![image](https://images.squarespace-cdn.com/content/v1/6323407806527435ec6898dc/0849c103-1ab7-4045-9115-7791006f60c7/TN-2.jpg)
